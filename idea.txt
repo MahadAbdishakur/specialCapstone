@@ -1,0 +1,20 @@
+My Capstone Project will be based on a react memory game
+
+mvp:
+user will match cards to in order to win 
+user can create and log into there own accounts
+user will have there scores saved in the DataBase
+users will have there turns tracked to create a score
+user can choose diffrent card deck themes to spice up the game
+user can log in and view there score
+user can view all card decks
+
+DataBase:
+stores all cards
+stores user info
+stores scores
+
+view:
+log in/register screen
+matching game screen
+profile screen/score screen
